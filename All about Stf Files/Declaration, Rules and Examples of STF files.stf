@@ -1,0 +1,49 @@
+This is plain text
+
+1^ This is a header 1 (big)|
+2^ This is a header 2|
+3^ This is a header 3|
+4^ This is a header 4|
+5^ This is a header 5|
+6^ This is a header 6 (small)|
+
+/b«This is bold text»
+/i«This is italic text»
+/u«This is underlined text»
+/s«This is strikethrough text»
+/f-Comic_Sans«This is font text (Comic Sans), also only Google fonts work, to note the default font is Arial»
+/c-#ffff00«This is coloured text (#ffff00) (Yellow)»
+/c-rgb(165,42,42)«This is coloured text rgb(165,42,42) (Brown)»
+
+This is a normal forward slash \/
+This is a normal back slash \\
+This is a normal semi colon \;
+This is a normal left angle quote \«
+This is a normal right angle quote \»
+This is a normal vertical bar or vertical slash \|
+This is a normal circumflex accent or caret \^
+
+This is an alt code symbol /a-157;, you can also directly type them ¥
+
+/j«This is locked or jammed or inline code text»
+
+/@«This is a comment, it cannot be seen by the viewer only by the editor»
+
+/p-pygame,requests«
+# This is direct Python
+# On the top is where you give the Pypi libraries Needed for your Program (for example: pygame, requests)
+# Built-in Python Libraries do not need to be given on top
+# However Pypi library or Built-in library they still need to be imported
+# This is the only part of the file that changes things on the view area with Python Objects and its id
+# Right Now its updated to Python 3 Latest Version
+»
+
+/o-object_id«This is Python Object (object_id)»
+
+/l-https://www.google.com/«This is a link (if you click me you go to google)»
+
+
+
+Thank you for using .stf file format
+
+© Copyright 2020 Shanvanth's White Hacking Studio. All Rights Reserved.
